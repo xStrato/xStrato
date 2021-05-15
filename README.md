@@ -4,9 +4,19 @@
 Pretending to be a lit genius powered by curiosity 🔥
  — Cara sisudo <br> <br>
 </p>
+<p align="left">
+Daily Languages/Technologies ( 🤖 ):
+</p> 
 
 ![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![Docker](https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker)
+
+</p>
+<p align="left">
+Daily code editor/IDE ( 💻 ):
+</p> 
+<img src="https://badges.aleen42.com/src/visual_studio_code.svg">
+
 <center>
   <table>
     <tr>
