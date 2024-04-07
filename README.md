@@ -1,5 +1,5 @@
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvan-viana-2009a629/)](https://www.linkedin.com/in/gilvan-viana-2009a629/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/viana_gilvan_)](https://www.instagram.com/viana_gilvan_) 
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvan-viana-2009a629/)](https://www.linkedin.com/in/gilvan-viana-2009a629/)
 <p align="left">
 Pretending to be a lit genius powered by curiosity 🔥 <br>
  — Cara sisudo  <br>
